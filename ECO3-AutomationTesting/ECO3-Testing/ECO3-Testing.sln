@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECO3-Testing", "ECO3-Testing\ECO3-Testing.csproj", "{742FC0F4-5775-4A0F-B4C9-32B63C080554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECO3.Automation-TREE.Web", "ECO3.Automation-TREE.Web\ECO3.Automation-TREE.Web.csproj", "{11DC1D1B-9E95-4C59-B33D-64214F53D3B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742FC0F4-5775-4A0F-B4C9-32B63C080554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742FC0F4-5775-4A0F-B4C9-32B63C080554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742FC0F4-5775-4A0F-B4C9-32B63C080554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742FC0F4-5775-4A0F-B4C9-32B63C080554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11DC1D1B-9E95-4C59-B33D-64214F53D3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DC1D1B-9E95-4C59-B33D-64214F53D3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DC1D1B-9E95-4C59-B33D-64214F53D3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DC1D1B-9E95-4C59-B33D-64214F53D3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {657250C6-DE06-49D4-9EC6-AB0E60C6C0C3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+Measure Reference,Supplier Code,Test No,Test Name,Error Message,Field,Error Description,Observed Value
+BBB9876129,BBB,2.29,GDAR URN,Fail - a DOCI after 31/05/17 must use PAS2030:2017,wrong field,PAS2030:2017 may only be used after 31/ May 2017,wrong field

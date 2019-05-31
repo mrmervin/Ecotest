@@ -1,0 +1,8 @@
+Measure Reference,Supplier Code,Test No,Test Name,Field,Error Message,Error Description,Observed Value,,,,,,
+CCC8768779,CCC,1.13,Rural Area and Rural Sub-Obligation,Post Code,Associated Measure Reference Number,Fail - Primary is not approved,Observe 1,,,,,,
+DDD5673457,DDD,1.17,Is the Brokerage Lot Number Valid?,Rural Area,Fail - Rural Sub Obligation can only be Yes under CSCO,Field cannot be blank.,Observe 2,,,,,,
+EEE3245679,EEE,2.13,Cost Score Checks,Private Domestic Premises,Invalid Message,Invalid desc,Observe 3,,,,,,
+BBB9876129,BBB,2.17,Lifetimes,Scoring Method,Fail - Lifetime should be 42,This Measure Type should have a lifetime of 42 as stated in the ECO Guidance.,,,,,,,
+AAA0704707,AAA,2.29,GDAR URN,Invalid Field,Fail - In Use Factor should be 10,This Measure Type should have an In Use Factor of 10 as stated in the ECO Guidance.,Observe 5,,,,,,
+EEE3245684,EEE,,,,,,,,,,,,
+,,2.27,Pre Installation EPC RRN,HTTC Qualification,Fail - PAS is blank,Field cannot be blank.,Observe 7,,,,,,

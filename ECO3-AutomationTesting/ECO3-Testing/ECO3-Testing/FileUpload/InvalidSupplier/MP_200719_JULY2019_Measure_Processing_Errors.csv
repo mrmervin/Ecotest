@@ -1,0 +1,3 @@
+Measure Reference,Supplier Code,Test No,Test Name,Error Message,Error Description,Observed Value,Field
+CCC8768781,INVSUP,1.12,Primary/Secondary. Install date 6 months apart,Fail - Install Date not within 6 months of Associated Primary Measure,Associated Primary Measure was not installed within 6 months.,Observe C,Adjoining Installation
+DDD5673456,INVSUP,2.13,Cost Score Checks,Fail - Cost Score Invalid,Entry must be of a numerical value (or N/A for CERO/CSCO).,Observe D,Carbon Score (TCO2)

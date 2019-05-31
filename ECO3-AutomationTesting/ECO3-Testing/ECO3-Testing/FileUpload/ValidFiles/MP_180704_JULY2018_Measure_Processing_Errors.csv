@@ -1,0 +1,4 @@
+Measure Reference,Supplier Code,Test No,Test Name,Error Message,Field,Error Description,Observed Value
+AAA0704702,AAA,2.11,Carbon Score outside limits low (is Carbon Score below lower limit),Fail - Carbon Score lower than expected (Change of Heating Source),Measure Type,Carbon Score lower than expected.,Observed 1
+AAA0704705,AAA,1.11,Primary/Secondary. Install Date 7 months from today,Fail - Install Date not 7 months from today,Floor Area,"Associated Primary Measure has not yet been notified, indicating that the 6-month rule has not been met.",Observed 2
+AAA0704707,AAA,2.13,Cost Score Checks,Fail - Cost Score not correct based on Annual Cost Saving and Lifetime,Affordable Warmth Group,Cost Score is not equal to (Cost Saving x Lifetime).,Observed 3

@@ -1,0 +1,9 @@
+Measure Reference,Supplier Code,Test No,Test Name,Field,Error Message,Error Description,Observed Value
+AAA0704706,AAA,1.12,Primary/Secondary. Install date 6 months apart,Rural Area,Fail - Install Date not within 6 months of Associated Primary Measure,Associated Primary Measure was not installed within 6 months.,1 by Observed
+AAA0704708,AAA,1.15,Is the Associated Measure Reference Number Acceptable?,Associated Measure Reference Number,Fail - Associated Measure Reference Number is blank,Field cannot be blank.,2 by Observed
+AAA0704709,AAA,2.12,Annual Cost Saving,Street Name,Fail - Annual Cost Saving Invalid,Entry must be of a numerical value (or N/A for CERO/CSCO).,3 by Observed
+BBB9876131,BBB,2.29,GDAR URN,Property Type,Fail - a DOCI after 31/05/17 must use PAS2030:2017,PAS2030:2017 may only be used after 31/ May 2017,4 by Observed
+BBB9876130,BBB,2.17,Lifetimes,Scoring Method,Fail - PAS Invalid for ECO2t,"Only entries of PAS2030:2014, PAS2030:2017 and N/A are accepted.",5 by Observed
+BBB9876129,BBB,2.32,Percentage of Measure Installed,Name & Version Of Scoring Tool Used,Fail - HTTC measures are not valid in ECO 2,Hard-to-treat cavity wall insulation is not a valid ECO measure from 1st April 2015,6 by Observed
+FFF0709903,FFF,2.27,Pre Installation EPC RRN,Carbon Score (TCO2),Fail - Invalid length,Field must contain 24 alphanumeric characters and be of the following format: NNNN-NNNN-NNNN-NNNN-NNNN,7 by Observed
+CCC8768779,CCC,3.17,Floor Area,Primary Eligibility,Fail - Floor Area Low,The Floor Area value submitted is particularly low for this property type and should be investigated,8 by Observed

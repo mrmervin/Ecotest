@@ -1,0 +1,2 @@
+Measure Reference,Supplier Code,Test No,Test Name,Field,Error Message,Error Description,Observed Value
+CCC8768781,EON,2.17,Lifetimes,ESAS Reference Number,Fail - Lifetime should be 36,This Measure Type should have a lifetime of 36 as stated in the ECO Guidance.,0

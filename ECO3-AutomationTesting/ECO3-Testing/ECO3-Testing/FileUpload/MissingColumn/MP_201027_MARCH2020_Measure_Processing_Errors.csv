@@ -1,0 +1,9 @@
+Measure Reference,Supplier Code,Test Name,Field,Error Message,Error Description,Observed Value
+EON6215654,EON,AM must be Approved by Ofgem,Appropriate Methodology Reference,Fail - AM ID Invalid,Invalid methods,AM
+EON6277665,EON,Which Overall Obligation Period has the measure been delivered under?,Overall Obligation Period,Fail - Obligation Period is blank,Invalid methods,AM
+EON6277664,EON,What is the ECO Supplier Reference,Supplier Licence Reference,Fail - ECO Supplier Reference is blank,Invalid methods,AM
+EON6277661,EON,What is the Obligation Category?,Obligation Category,Fail - Obligation Category is blank,Invalid methods,AM
+EON6277660,EON,AM must be Approved by Ofgem,Appropriate Methodology Reference,Fail - AM ID Invalid,Invalid methods,AM
+EON6277658,EON,Which Overall Obligation Period has the measure been delivered under?,Overall Obligation Period,Fail - Obligation Period is blank,Invalid methods,
+EON6277656,EON,What is the ECO Supplier Reference,Supplier Licence Reference,Fail - ECO Supplier Reference is blank,Invalid methods,
+EON6259488,EON,Testing,Obligation Category,Fail - Obligation Category is blank,Invalid methods,

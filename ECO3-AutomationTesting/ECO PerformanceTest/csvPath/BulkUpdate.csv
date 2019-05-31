@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1542295716808,4,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Bulk Update Thread Group 1-1,,true,,0,0,1,1,null,0,0,0
+1542295716808,4,GetWorkspaceDirectoryScript,200,OK,Bulk Update Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
+1542295716814,4994,Log on to internal page as Advanced user,200,OK,Bulk Update Thread Group 1-1,text,true,,13146,1117,1,1,http://eco-qaa-iweb01.dev.corp.ofgem.gov.uk/,4994,0,34
+1542295721821,104,ECO2_CompletedMeasure/Search,400,Bad Request,Bulk Update Thread Group 1-1,text,false,,518,9479,1,1,http://eco-qaa-iweb01.dev.corp.ofgem.gov.uk/ECO2_CompletedMeasure/Search,104,0,63

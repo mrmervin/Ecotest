@@ -1,0 +1,2 @@
+Measure Referencertt,Supplier Code code,Test No,Test Name,Error Message,Field,Error Description,Observed Value
+AAA0704637,AAA,2.29,GDAR URN,Fail - 4 x '-' not in correct places (Non-GDAR),Green Deal Advice Report URN,Measure not recommended by GDAR. Field must be of the following format: NNNN-NNNN-NNNN-NNNN-NNNN,

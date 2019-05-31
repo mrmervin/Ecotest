@@ -1,0 +1,701 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1539170105251,24367,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-21,,true,,908765,465694,100,100,null,0,51274,0
+1539170105251,5579,Login,200,OK,Thread Group 1-21,text,true,,62157,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,720,0,142
+1539170111934,4097,NavigateToHomePage,200,OK,Thread Group 1-21,text,true,,799516,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,114,0,56
+1539170124741,13268,NavigateToUploadPage,200,OK,Thread Group 1-21,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4863,0,2518
+1539170171347,372,SingleMeasureFileUpload,200,OK,Thread Group 1-21,text,true,,15875,108002,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,108,0,67
+1539170172875,583,UploadCount,200,OK,Thread Group 1-21,text,true,,14918,102408,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,31,0,0
+1539170180422,468,DowloadErrorFile,200,OK,Thread Group 1-21,text,true,,541,4679,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,468,0,153
+1539170105304,24771,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-83,,true,,469442,465710,99,99,null,0,51287,0
+1539170105305,5617,Login,200,OK,Thread Group 1-83,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2855,0,467
+1539170112026,6332,NavigateToHomePage,200,OK,Thread Group 1-83,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,153,0,36
+1539170127068,11315,NavigateToUploadPage,200,OK,Thread Group 1-83,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3645,0,1891
+1539170171722,426,SingleMeasureFileUpload,200,OK,Thread Group 1-83,text,true,,15875,108018,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,68,0,31
+1539170173304,656,UploadCount,200,OK,Thread Group 1-83,text,true,,14918,102408,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,41,0,0
+1539170180935,425,DowloadErrorFile,200,OK,Thread Group 1-83,text,true,,541,4679,99,99,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,425,0,143
+1539170105268,25574,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-37,,true,,469442,465696,98,98,null,0,51332,0
+1539170105269,5681,Login,200,OK,Thread Group 1-37,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1169,0,236
+1539170112054,4844,NavigateToHomePage,200,OK,Thread Group 1-37,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,128,0,80
+1539170125608,13002,NavigateToUploadPage,200,OK,Thread Group 1-37,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4313,0,2072
+1539170171955,749,SingleMeasureFileUpload,200,OK,Thread Group 1-37,text,true,,15875,108004,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,199,0,59
+1539170173870,687,UploadCount,200,OK,Thread Group 1-37,text,true,,14918,102408,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,99,0,0
+1539170181560,611,DowloadErrorFile,200,OK,Thread Group 1-37,text,true,,541,4679,98,98,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,611,0,204
+1539170105304,25681,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-84,,true,,469442,465714,97,97,null,0,51283,0
+1539170105305,5654,Login,200,OK,Thread Group 1-84,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2814,0,461
+1539170112061,5771,NavigateToHomePage,200,OK,Thread Group 1-84,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,199,0,93
+1539170126541,12143,NavigateToUploadPage,200,OK,Thread Group 1-84,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3725,0,1893
+1539170172033,682,SingleMeasureFileUpload,200,OK,Thread Group 1-84,text,true,,15875,108022,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,197,0,34
+1539170173871,814,UploadCount,200,OK,Thread Group 1-84,text,true,,14918,102408,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,98,0,0
+1539170181649,617,DowloadErrorFile,200,OK,Thread Group 1-84,text,true,,541,4679,97,97,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,617,0,465
+1539170105300,25892,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-77,,true,,469442,465710,96,96,null,0,51364,0
+1539170105300,5596,Login,200,OK,Thread Group 1-77,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2665,0,431
+1539170111999,4027,NavigateToHomePage,200,OK,Thread Group 1-77,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,168,0,47
+1539170124736,13821,NavigateToUploadPage,200,OK,Thread Group 1-77,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4856,0,2512
+1539170171905,729,SingleMeasureFileUpload,200,OK,Thread Group 1-77,text,true,,15875,108018,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,147,0,22
+1539170173870,960,UploadCount,200,OK,Thread Group 1-77,text,true,,14918,102408,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,99,0,0
+1539170181795,759,DowloadErrorFile,200,OK,Thread Group 1-77,text,true,,541,4679,96,96,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,759,0,396
+1539170105305,27774,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-85,,true,,469442,465712,95,95,null,0,51274,0
+1539170105306,5647,Login,200,OK,Thread Group 1-85,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2920,0,479
+1539170112056,6421,NavigateToHomePage,200,OK,Thread Group 1-85,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,126,0,88
+1539170127186,13124,NavigateToUploadPage,200,OK,Thread Group 1-85,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3559,0,1785
+1539170173649,331,SingleMeasureFileUpload,200,OK,Thread Group 1-85,text,true,,15875,108020,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,116,0,78
+1539170175135,1198,UploadCount,200,OK,Thread Group 1-85,text,true,,14918,102408,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,37,0,0
+1539170183298,1053,DowloadErrorFile,200,OK,Thread Group 1-85,text,true,,541,4679,95,95,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,1053,0,581
+1539170105322,31226,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-96,,true,,469442,465712,94,94,null,0,51275,0
+1539170105323,5623,Login,200,OK,Thread Group 1-96,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,3238,0,569
+1539170112049,4719,NavigateToHomePage,200,OK,Thread Group 1-96,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,129,0,35
+1539170125477,16988,NavigateToUploadPage,200,OK,Thread Group 1-96,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4389,0,2179
+1539170175803,609,SingleMeasureFileUpload,200,OK,Thread Group 1-96,text,true,,15875,108020,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,134,0,30
+1539170177568,1638,UploadCount,200,OK,Thread Group 1-96,text,true,,14918,102408,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,142,0,0
+1539170186172,1649,DowloadErrorFile,200,OK,Thread Group 1-96,text,true,,541,4679,94,94,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,1649,0,1004
+1539170105253,31347,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-24,,true,,469442,465708,93,93,null,0,51276,0
+1539170105254,5688,Login,200,OK,Thread Group 1-24,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1009,0,154
+1539170112044,4031,NavigateToHomePage,200,OK,Thread Group 1-24,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,125,0,30
+1539170124784,17664,NavigateToUploadPage,200,OK,Thread Group 1-24,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4877,0,2519
+1539170175787,611,SingleMeasureFileUpload,200,OK,Thread Group 1-24,text,true,,15875,108016,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,64,0,25
+1539170177555,1762,UploadCount,200,OK,Thread Group 1-24,text,true,,14918,102408,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,124,0,0
+1539170186282,1591,DowloadErrorFile,200,OK,Thread Group 1-24,text,true,,541,4679,93,93,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,1591,0,1160
+1539170105293,35881,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-68,,true,,469442,465698,92,92,null,0,51456,0
+1539170105294,6459,Login,200,OK,Thread Group 1-68,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2114,0,375
+1539170112857,16546,NavigateToHomePage,200,OK,Thread Group 1-68,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,813,0,384
+1539170138112,6121,NavigateToUploadPage,200,OK,Thread Group 1-68,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,883,0,457
+1539170177572,1290,SingleMeasureFileUpload,200,OK,Thread Group 1-68,text,true,,15875,108006,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,254,0,106
+1539170180018,3958,UploadCount,200,OK,Thread Group 1-68,text,true,,14918,102408,95,95,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,856,0,171
+1539170191121,1507,DowloadErrorFile,200,OK,Thread Group 1-68,text,true,,541,4679,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,1507,0,551
+1539170105329,38007,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-98,,true,,469442,465710,91,91,null,0,51309,0
+1539170105329,6347,Login,200,OK,Thread Group 1-98,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,3180,0,539
+1539170112780,17146,NavigateToHomePage,200,OK,Thread Group 1-98,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,825,0,275
+1539170138668,5629,NavigateToUploadPage,200,OK,Thread Group 1-98,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,663,0,135
+1539170177636,1680,SingleMeasureFileUpload,200,OK,Thread Group 1-98,text,true,,15875,108018,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,211,0,72
+1539170180471,5682,UploadCount,200,OK,Thread Group 1-98,text,true,,14918,102408,94,94,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,1699,0,172
+1539170193120,1523,DowloadErrorFile,200,OK,Thread Group 1-98,text,true,,541,4679,91,91,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,1523,0,615
+1539170105318,38496,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-94,,true,,469442,465706,90,90,null,0,51294,0
+1539170105319,6360,Login,200,OK,Thread Group 1-94,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,3119,0,519
+1539170112782,16395,NavigateToHomePage,200,OK,Thread Group 1-94,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,841,0,333
+1539170137886,6475,NavigateToUploadPage,200,OK,Thread Group 1-94,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1092,0,536
+1539170177702,1631,SingleMeasureFileUpload,200,OK,Thread Group 1-94,text,true,,15875,108014,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,238,0,28
+1539170180489,5816,UploadCount,200,OK,Thread Group 1-94,text,true,,14918,102408,94,94,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,570,0,151
+1539170193287,1819,DowloadErrorFile,200,OK,Thread Group 1-94,text,true,,541,4679,90,90,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,1819,0,944
+1539170105333,40493,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-100,,true,,469442,465700,89,89,null,0,51280,0
+1539170105333,6348,Login,200,OK,Thread Group 1-100,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,3301,0,574
+1539170112784,16503,NavigateToHomePage,200,OK,Thread Group 1-100,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,849,0,286
+1539170137995,6523,NavigateToUploadPage,200,OK,Thread Group 1-100,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,982,0,486
+1539170177859,2331,SingleMeasureFileUpload,200,OK,Thread Group 1-100,text,true,,15875,108008,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,839,0,204
+1539170181346,6528,UploadCount,200,OK,Thread Group 1-100,text,true,,14918,102408,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,1419,0,259
+1539170194844,2260,DowloadErrorFile,200,OK,Thread Group 1-100,text,true,,541,4679,89,89,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2260,0,1348
+1539170105223,40565,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,469442,465704,88,88,null,0,51332,0
+1539170105224,6730,Login,200,OK,Thread Group 1-1,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,747,0,16
+1539170113107,17047,NavigateToHomePage,200,OK,Thread Group 1-1,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,984,0,238
+1539170138862,5688,NavigateToUploadPage,200,OK,Thread Group 1-1,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,714,0,112
+1539170177890,2310,SingleMeasureFileUpload,200,OK,Thread Group 1-1,text,true,,15875,108012,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,808,0,204
+1539170181356,6518,UploadCount,200,OK,Thread Group 1-1,text,true,,14918,102408,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,1414,0,282
+1539170194846,2272,DowloadErrorFile,200,OK,Thread Group 1-1,text,true,,541,4679,88,88,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2272,0,1362
+1539170105298,40569,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-75,,true,,469442,465712,87,87,null,0,51282,0
+1539170105299,6388,Login,200,OK,Thread Group 1-75,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2633,0,421
+1539170112790,16545,NavigateToHomePage,200,OK,Thread Group 1-75,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,847,0,340
+1539170138043,6477,NavigateToUploadPage,200,OK,Thread Group 1-75,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,935,0,512
+1539170177860,2331,SingleMeasureFileUpload,200,OK,Thread Group 1-75,text,true,,15875,108020,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,838,0,217
+1539170181347,6527,UploadCount,200,OK,Thread Group 1-75,text,true,,14918,102408,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,1419,0,274
+1539170194845,2301,DowloadErrorFile,200,OK,Thread Group 1-75,text,true,,541,4679,87,87,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2301,0,1377
+1539170105308,41567,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-89,,true,,469442,465708,86,86,null,0,51474,0
+1539170105314,6375,Login,200,OK,Thread Group 1-89,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2958,0,490
+1539170112792,16520,NavigateToHomePage,200,OK,Thread Group 1-89,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,845,0,410
+1539170138035,6342,NavigateToUploadPage,200,OK,Thread Group 1-89,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,943,0,496
+1539170177717,1979,SingleMeasureFileUpload,200,OK,Thread Group 1-89,text,true,,15875,108016,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,474,0,50
+1539170180872,7851,UploadCount,200,OK,Thread Group 1-89,text,true,,14918,102408,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,772,0,30
+1539170195847,2500,DowloadErrorFile,200,OK,Thread Group 1-89,text,true,,541,4679,86,86,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2500,0,1045
+1539170105283,42087,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-57,,true,,469442,465712,85,85,null,0,51317,0
+1539170105284,6454,Login,200,OK,Thread Group 1-57,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2085,0,375
+1539170112855,16544,NavigateToHomePage,200,OK,Thread Group 1-57,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,788,0,377
+1539170138107,6968,NavigateToUploadPage,200,OK,Thread Group 1-57,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,893,0,486
+1539170178443,2264,SingleMeasureFileUpload,200,OK,Thread Group 1-57,text,true,,15875,108020,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,874,0,121
+1539170181863,7378,UploadCount,200,OK,Thread Group 1-57,text,true,,14918,102408,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,1834,0,348
+1539170196207,2479,DowloadErrorFile,200,OK,Thread Group 1-57,text,true,,541,4679,85,85,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2479,0,912
+1539170105308,42439,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-88,,true,,469442,465710,84,84,null,0,51275,0
+1539170105309,6375,Login,200,OK,Thread Group 1-88,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,3020,0,509
+1539170112788,16759,NavigateToHomePage,200,OK,Thread Group 1-88,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,852,0,387
+1539170138255,7195,NavigateToUploadPage,200,OK,Thread Group 1-88,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,745,0,366
+1539170178789,2095,SingleMeasureFileUpload,200,OK,Thread Group 1-88,text,true,,15875,108018,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,907,0,341
+1539170182040,7545,UploadCount,200,OK,Thread Group 1-88,text,true,,14918,102408,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,1317,0,200
+1539170196551,2470,DowloadErrorFile,200,OK,Thread Group 1-88,text,true,,541,4679,84,84,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2470,0,1085
+1539170105238,45539,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-9,,true,,469442,465708,83,83,null,0,51298,0
+1539170105239,6410,Login,200,OK,Thread Group 1-9,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,732,0,63
+1539170112753,16559,NavigateToHomePage,200,OK,Thread Group 1-9,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,882,0,93
+1539170138036,7601,NavigateToUploadPage,200,OK,Thread Group 1-9,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,959,0,507
+1539170178976,3218,SingleMeasureFileUpload,200,OK,Thread Group 1-9,text,true,,15875,108016,97,97,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,892,0,227
+1539170183352,8246,UploadCount,200,OK,Thread Group 1-9,text,true,,14918,102408,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,1914,0,561
+1539170198569,3505,DowloadErrorFile,200,OK,Thread Group 1-9,text,true,,541,4679,83,83,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3505,0,1277
+1539170105253,48452,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-23,,true,,469442,465712,82,82,null,0,51278,0
+1539170105254,6404,Login,200,OK,Thread Group 1-23,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1246,0,162
+1539170112763,17903,NavigateToHomePage,200,OK,Thread Group 1-23,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,909,0,124
+1539170139374,7870,NavigateToUploadPage,200,OK,Thread Group 1-23,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1581,0,515
+1539170180584,3499,SingleMeasureFileUpload,200,OK,Thread Group 1-23,text,true,,15875,108020,95,95,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,476,0,209
+1539170185240,8917,UploadCount,200,OK,Thread Group 1-23,text,true,,14918,102408,91,91,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2142,0,870
+1539170201122,3859,DowloadErrorFile,200,OK,Thread Group 1-23,text,true,,541,4679,82,82,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3859,0,1429
+1539170105281,49115,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-54,,true,,469442,465704,81,81,null,0,51481,0
+1539170105282,6737,Login,200,OK,Thread Group 1-54,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2087,0,382
+1539170113123,17841,NavigateToHomePage,200,OK,Thread Group 1-54,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,1009,0,265
+1539170139713,7735,NavigateToUploadPage,200,OK,Thread Group 1-54,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1591,0,304
+1539170180788,3976,SingleMeasureFileUpload,200,OK,Thread Group 1-54,text,true,,15875,108012,94,94,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,798,0,87
+1539170186078,9073,UploadCount,200,OK,Thread Group 1-54,text,true,,14918,102408,89,89,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2414,0,271
+1539170202122,3753,DowloadErrorFile,200,OK,Thread Group 1-54,text,true,,541,4679,81,81,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3753,0,1619
+1539170105290,51142,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-65,,true,,469442,465700,80,80,null,0,51278,0
+1539170105290,6427,Login,200,OK,Thread Group 1-65,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2136,0,384
+1539170112820,16581,NavigateToHomePage,200,OK,Thread Group 1-65,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,820,0,392
+1539170138110,7815,NavigateToUploadPage,200,OK,Thread Group 1-65,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,868,0,471
+1539170179264,2234,SingleMeasureFileUpload,200,OK,Thread Group 1-65,text,true,,15875,108008,98,98,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,892,0,314
+1539170182654,13571,UploadCount,200,OK,Thread Group 1-65,text,true,,14918,102408,89,89,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,1632,0,536
+1539170203194,4514,DowloadErrorFile,200,OK,Thread Group 1-65,text,true,,541,4679,80,80,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,4514,0,2204
+1539170105308,53907,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-91,,true,,469442,465696,79,79,null,0,51280,0
+1539170105309,6341,Login,200,OK,Thread Group 1-91,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2917,0,489
+1539170112754,17887,NavigateToHomePage,200,OK,Thread Group 1-91,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,920,0,99
+1539170139349,7894,NavigateToUploadPage,200,OK,Thread Group 1-91,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1479,0,516
+1539170180582,3607,SingleMeasureFileUpload,200,OK,Thread Group 1-91,text,true,,15875,108004,95,95,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,505,0,191
+1539170185344,13611,UploadCount,200,OK,Thread Group 1-91,text,true,,14918,102408,84,84,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2288,0,785
+1539170205927,4567,DowloadErrorFile,200,OK,Thread Group 1-91,text,true,,541,4679,79,79,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,4567,0,2332
+1539170105306,54978,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-86,,true,,469442,465698,78,78,null,0,51278,0
+1539170105307,6339,Login,200,OK,Thread Group 1-86,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2915,0,472
+1539170112750,17713,NavigateToHomePage,200,OK,Thread Group 1-86,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,886,0,68
+1539170139172,8699,NavigateToUploadPage,200,OK,Thread Group 1-86,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1496,0,557
+1539170181210,6277,SingleMeasureFileUpload,200,OK,Thread Group 1-86,text,true,,15875,108006,94,94,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1345,0,349
+1539170188642,11082,UploadCount,200,OK,Thread Group 1-86,text,true,,14918,102408,83,83,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2468,0,597
+1539170206693,4868,DowloadErrorFile,200,OK,Thread Group 1-86,text,true,,541,4679,78,78,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,4868,0,2625
+1539170105276,55634,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-46,,true,,469442,465694,77,77,null,0,51275,0
+1539170105277,6405,Login,200,OK,Thread Group 1-46,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1484,0,280
+1539170112785,17979,NavigateToHomePage,200,OK,Thread Group 1-46,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,787,0,231
+1539170139473,7771,NavigateToUploadPage,200,OK,Thread Group 1-46,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1487,0,454
+1539170180584,3677,SingleMeasureFileUpload,200,OK,Thread Group 1-46,text,true,,15875,108002,95,95,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,502,0,228
+1539170185417,15092,UploadCount,200,OK,Thread Group 1-46,text,true,,14918,102408,83,83,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2244,0,734
+1539170207474,4710,DowloadErrorFile,200,OK,Thread Group 1-46,text,true,,541,4679,77,77,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,4710,0,2277
+1539170105303,56970,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-80,,true,,469442,465708,76,76,null,0,51279,0
+1539170105304,6347,Login,200,OK,Thread Group 1-80,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2778,0,443
+1539170112755,17899,NavigateToHomePage,200,OK,Thread Group 1-80,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,881,0,83
+1539170139362,8494,NavigateToUploadPage,200,OK,Thread Group 1-80,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1476,0,515
+1539170181196,4901,SingleMeasureFileUpload,200,OK,Thread Group 1-80,text,true,,15875,108016,94,94,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1144,0,333
+1539170187252,15142,UploadCount,200,OK,Thread Group 1-80,text,true,,14918,102408,82,82,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,1989,0,617
+1539170209364,4187,DowloadErrorFile,200,OK,Thread Group 1-80,text,true,,541,4679,76,76,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,4187,0,2479
+1539170105281,59577,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-53,,true,,469442,465706,75,75,null,0,51461,0
+1539170105282,6382,Login,200,OK,Thread Group 1-53,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2027,0,372
+1539170112773,18562,NavigateToHomePage,200,OK,Thread Group 1-53,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,897,0,124
+1539170140044,8694,NavigateToUploadPage,200,OK,Thread Group 1-53,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1760,0,656
+1539170182077,7451,SingleMeasureFileUpload,200,OK,Thread Group 1-53,text,true,,15875,108014,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1268,0,186
+1539170190864,14781,UploadCount,200,OK,Thread Group 1-53,text,true,,14918,102408,81,81,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,1995,0,731
+1539170212610,3707,DowloadErrorFile,200,OK,Thread Group 1-53,text,true,,541,4679,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3707,0,1632
+1539170105267,61954,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-36,,true,,469442,465704,74,74,null,0,51674,0
+1539170105268,6406,Login,200,OK,Thread Group 1-36,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1232,0,224
+1539170112777,17652,NavigateToHomePage,200,OK,Thread Group 1-36,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,858,0,300
+1539170139138,9844,NavigateToUploadPage,200,OK,Thread Group 1-36,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1368,0,563
+1539170182322,8131,SingleMeasureFileUpload,200,OK,Thread Group 1-36,text,true,,15875,108012,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2154,0,606
+1539170191680,16581,UploadCount,200,OK,Thread Group 1-36,text,true,,14918,102408,79,79,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2091,0,963
+1539170215552,3340,DowloadErrorFile,200,OK,Thread Group 1-36,text,true,,541,4679,74,74,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3340,0,1352
+1539170105296,61982,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-73,,true,,469442,465708,73,73,null,0,51633,0
+1539170105296,6420,Login,200,OK,Thread Group 1-73,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2550,0,409
+1539170112819,17767,NavigateToHomePage,200,OK,Thread Group 1-73,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,822,0,400
+1539170139295,9810,NavigateToUploadPage,200,OK,Thread Group 1-73,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1642,0,474
+1539170182444,8047,SingleMeasureFileUpload,200,OK,Thread Group 1-73,text,true,,15875,108016,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2252,0,651
+1539170191680,16581,UploadCount,200,OK,Thread Group 1-73,text,true,,14918,102408,79,79,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2117,0,979
+1539170215552,3357,DowloadErrorFile,200,OK,Thread Group 1-73,text,true,,541,4679,73,73,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3357,0,1368
+1539170105256,62411,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-27,,true,,469442,465710,72,72,null,0,51274,0
+1539170105256,6412,Login,200,OK,Thread Group 1-27,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1113,0,190
+1539170112772,18259,NavigateToHomePage,200,OK,Thread Group 1-27,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,898,0,97
+1539170139739,9366,NavigateToUploadPage,200,OK,Thread Group 1-27,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1685,0,442
+1539170182444,8107,SingleMeasureFileUpload,200,OK,Thread Group 1-27,text,true,,15875,108018,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1621,0,634
+1539170191706,16900,UploadCount,200,OK,Thread Group 1-27,text,true,,14918,102408,79,79,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2120,0,969
+1539170215573,3367,DowloadErrorFile,200,OK,Thread Group 1-27,text,true,,541,4679,72,72,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3367,0,1365
+1539170105257,64012,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-28,,true,,469442,465694,71,71,null,0,51279,0
+1539170105258,6425,Login,200,OK,Thread Group 1-28,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1310,0,194
+1539170112786,17747,NavigateToHomePage,200,OK,Thread Group 1-28,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,851,0,364
+1539170139241,11025,NavigateToUploadPage,200,OK,Thread Group 1-28,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1501,0,502
+1539170183605,7992,SingleMeasureFileUpload,200,OK,Thread Group 1-28,text,true,,15875,108002,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2464,0,494
+1539170192758,18003,UploadCount,200,OK,Thread Group 1-28,text,true,,14918,102408,78,78,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2046,0,627
+1539170217727,2820,DowloadErrorFile,200,OK,Thread Group 1-28,text,true,,541,4679,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2820,0,1517
+1539170105236,64253,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-8,,true,,469442,465704,70,70,null,0,51278,0
+1539170105237,6442,Login,200,OK,Thread Group 1-8,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1385,0,56
+1539170112782,18321,NavigateToHomePage,200,OK,Thread Group 1-8,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,834,0,309
+1539170139811,10426,NavigateToUploadPage,200,OK,Thread Group 1-8,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1651,0,468
+1539170183576,7981,SingleMeasureFileUpload,200,OK,Thread Group 1-8,text,true,,15875,108012,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1652,0,506
+1539170192713,18234,UploadCount,200,OK,Thread Group 1-8,text,true,,14918,102408,78,78,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2038,0,643
+1539170217917,2849,DowloadErrorFile,200,OK,Thread Group 1-8,text,true,,541,4679,70,70,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2849,0,1469
+1539170105241,65627,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-11,,true,,469442,465694,69,69,null,0,51281,0
+1539170105242,6445,Login,200,OK,Thread Group 1-11,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,986,0,67
+1539170112790,18528,NavigateToHomePage,200,OK,Thread Group 1-11,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,849,0,394
+1539170140026,9055,NavigateToUploadPage,200,OK,Thread Group 1-11,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1815,0,660
+1539170182420,8692,SingleMeasureFileUpload,200,OK,Thread Group 1-11,text,true,,15875,108002,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1645,0,640
+1539170192275,20638,UploadCount,200,OK,Thread Group 1-11,text,true,,14918,102408,76,76,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3173,0,912
+1539170219878,2269,DowloadErrorFile,200,OK,Thread Group 1-11,text,true,,541,4679,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2269,0,1328
+1539170105232,70598,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-5,,true,,469442,465706,68,68,null,0,51315,0
+1539170105233,6429,Login,200,OK,Thread Group 1-5,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,739,0,37
+1539170112774,16956,NavigateToHomePage,200,OK,Thread Group 1-5,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,830,0,310
+1539170138439,13118,NavigateToUploadPage,200,OK,Thread Group 1-5,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,564,0,310
+1539170184923,9461,SingleMeasureFileUpload,200,OK,Thread Group 1-5,text,true,,15875,108014,91,91,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2338,0,1165
+1539170195543,21877,UploadCount,200,OK,Thread Group 1-5,text,true,,14918,102408,74,74,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3160,0,1216
+1539170224385,2757,DowloadErrorFile,200,OK,Thread Group 1-5,text,true,,541,4679,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2757,0,1366
+1539170105243,70822,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-14,,true,,602470,465700,67,67,null,0,51344,0
+1539170105244,6520,Login,200,OK,Thread Group 1-14,text,true,,191300,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,727,0,96
+1539170112868,17773,NavigateToHomePage,200,OK,Thread Group 1-14,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,807,0,419
+1539170139349,12785,NavigateToUploadPage,200,OK,Thread Group 1-14,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1460,0,504
+1539170185474,9461,SingleMeasureFileUpload,200,OK,Thread Group 1-14,text,true,,15875,108008,90,90,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2237,0,696
+1539170196160,21669,UploadCount,200,OK,Thread Group 1-14,text,true,,14918,102408,74,74,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3001,0,835
+1539170224793,2614,DowloadErrorFile,200,OK,Thread Group 1-14,text,true,,541,4679,67,67,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2614,0,997
+1539170105272,72544,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-42,,true,,469442,465702,66,66,null,0,51277,0
+1539170105273,6373,Login,200,OK,Thread Group 1-42,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1266,0,254
+1539170112750,17679,NavigateToHomePage,200,OK,Thread Group 1-42,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,884,0,60
+1539170139137,13598,NavigateToUploadPage,200,OK,Thread Group 1-42,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1477,0,575
+1539170186075,9481,SingleMeasureFileUpload,200,OK,Thread Group 1-42,text,true,,15875,108010,89,89,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2417,0,288
+1539170196713,22350,UploadCount,200,OK,Thread Group 1-42,text,true,,14918,102408,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3087,0,1430
+1539170226028,3063,DowloadErrorFile,200,OK,Thread Group 1-42,text,true,,541,4679,66,66,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3063,0,1770
+1539170105297,72742,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-74,,true,,469442,465698,65,65,null,0,51287,0
+1539170105298,6461,Login,200,OK,Thread Group 1-74,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2636,0,417
+1539170112862,17712,NavigateToHomePage,200,OK,Thread Group 1-74,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,809,0,403
+1539170139282,9682,NavigateToUploadPage,200,OK,Thread Group 1-74,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1460,0,475
+1539170182314,8119,SingleMeasureFileUpload,200,OK,Thread Group 1-74,text,true,,15875,108006,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2215,0,595
+1539170191591,27569,UploadCount,200,OK,Thread Group 1-74,text,true,,14918,102408,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2160,0,739
+1539170226125,3199,DowloadErrorFile,200,OK,Thread Group 1-74,text,true,,541,4679,65,65,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3199,0,1708
+1539170105255,72853,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-26,,true,,469442,465698,64,64,null,0,51280,0
+1539170105256,6401,Login,200,OK,Thread Group 1-26,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1035,0,175
+1539170112761,16494,NavigateToHomePage,200,OK,Thread Group 1-26,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,872,0,184
+1539170137963,11023,NavigateToUploadPage,200,OK,Thread Group 1-26,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1015,0,505
+1539170182325,8107,SingleMeasureFileUpload,200,OK,Thread Group 1-26,text,true,,15875,108006,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2154,0,621
+1539170191593,27653,UploadCount,200,OK,Thread Group 1-26,text,true,,14918,102408,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2143,0,722
+1539170226211,3175,DowloadErrorFile,200,OK,Thread Group 1-26,text,true,,541,4679,64,64,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3175,0,1640
+1539170105269,73771,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-38,,true,,469442,465700,63,63,null,0,51288,0
+1539170105270,6495,Login,200,OK,Thread Group 1-38,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1385,0,246
+1539170112868,17763,NavigateToHomePage,200,OK,Thread Group 1-38,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,803,0,426
+1539170139339,11278,NavigateToUploadPage,200,OK,Thread Group 1-38,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1614,0,490
+1539170183957,8581,SingleMeasureFileUpload,200,OK,Thread Group 1-38,text,true,,15875,108008,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1313,0,589
+1539170193709,26058,UploadCount,200,OK,Thread Group 1-38,text,true,,14918,102408,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2468,0,903
+1539170226730,3596,DowloadErrorFile,200,OK,Thread Group 1-38,text,true,,541,4679,63,63,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3596,0,1637
+1539170105229,73959,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-4,,true,,469442,465714,62,62,null,0,51365,0
+1539170105230,6454,Login,200,OK,Thread Group 1-4,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,745,0,32
+1539170112787,19795,NavigateToHomePage,200,OK,Thread Group 1-4,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,852,0,381
+1539170141290,12452,NavigateToUploadPage,200,OK,Thread Group 1-4,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2159,0,918
+1539170187082,9771,SingleMeasureFileUpload,200,OK,Thread Group 1-4,text,true,,15875,108022,89,89,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2141,0,673
+1539170198100,21666,UploadCount,200,OK,Thread Group 1-4,text,true,,14918,102408,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3782,0,1031
+1539170226730,3821,DowloadErrorFile,200,OK,Thread Group 1-4,text,true,,541,4679,62,62,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3821,0,1654
+1539170105266,74496,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-34,,true,,469442,465706,61,61,null,0,51362,0
+1539170105266,6408,Login,200,OK,Thread Group 1-34,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1422,0,220
+1539170112777,17590,NavigateToHomePage,200,OK,Thread Group 1-34,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,842,0,321
+1539170139076,9912,NavigateToUploadPage,200,OK,Thread Group 1-34,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1429,0,614
+1539170182328,8106,SingleMeasureFileUpload,200,OK,Thread Group 1-34,text,true,,15875,108014,92,92,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1737,0,634
+1539170191591,29174,UploadCount,200,OK,Thread Group 1-34,text,true,,14918,102408,70,70,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2146,0,753
+1539170227816,3306,DowloadErrorFile,200,OK,Thread Group 1-34,text,true,,541,4679,61,61,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3306,0,1316
+1539170105303,76569,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-82,,true,,469442,465698,60,60,null,0,51276,0
+1539170105303,6352,Login,200,OK,Thread Group 1-82,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2779,0,450
+1539170112760,22483,NavigateToHomePage,200,OK,Thread Group 1-82,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,784,0,154
+1539170143952,11549,NavigateToUploadPage,200,OK,Thread Group 1-82,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1946,0,443
+1539170188841,11776,SingleMeasureFileUpload,200,OK,Thread Group 1-82,text,true,,15875,108006,83,83,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2021,0,685
+1539170201773,21205,UploadCount,200,OK,Thread Group 1-82,text,true,,14918,102408,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4508,0,1847
+1539170229942,3204,DowloadErrorFile,200,OK,Thread Group 1-82,text,true,,541,4679,60,60,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,3204,0,1489
+1539170105249,76776,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-17,,true,,469442,465698,59,59,null,0,51425,0
+1539170105249,6415,Login,200,OK,Thread Group 1-17,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,846,0,121
+1539170112773,20406,NavigateToHomePage,200,OK,Thread Group 1-17,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,798,0,201
+1539170141887,14708,NavigateToUploadPage,200,OK,Thread Group 1-17,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2447,0,698
+1539170190080,12609,SingleMeasureFileUpload,200,OK,Thread Group 1-17,text,true,,15875,108006,82,82,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2305,0,408
+1539170203846,19994,UploadCount,200,OK,Thread Group 1-17,text,true,,14918,102408,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,5088,0,2045
+1539170230804,2644,DowloadErrorFile,200,OK,Thread Group 1-17,text,true,,541,4679,59,59,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2644,0,883
+1539170105223,76924,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-2,,true,,469442,465714,58,58,null,0,51432,0
+1539170105224,6932,Login,200,OK,Thread Group 1-2,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,747,0,23
+1539170113260,18130,NavigateToHomePage,200,OK,Thread Group 1-2,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,997,0,281
+1539170140107,16483,NavigateToUploadPage,200,OK,Thread Group 1-2,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1697,0,607
+1539170190078,12639,SingleMeasureFileUpload,200,OK,Thread Group 1-2,text,true,,15875,108022,82,82,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2307,0,392
+1539170203873,19985,UploadCount,200,OK,Thread Group 1-2,text,true,,14918,102408,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4903,0,2049
+1539170230822,2755,DowloadErrorFile,200,OK,Thread Group 1-2,text,true,,541,4679,58,58,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2755,0,883
+1539170105257,78117,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-29,,true,,469442,465696,57,57,null,0,51279,0
+1539170105257,6317,Login,200,OK,Thread Group 1-29,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,943,0,188
+1539170112680,20154,NavigateToHomePage,200,OK,Thread Group 1-29,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,553,0,72
+1539170141543,13636,NavigateToUploadPage,200,OK,Thread Group 1-29,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2509,0,917
+1539170188520,11210,SingleMeasureFileUpload,200,OK,Thread Group 1-29,text,true,,15875,108004,83,83,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2590,0,536
+1539170200886,24392,UploadCount,200,OK,Thread Group 1-29,text,true,,14918,102408,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4485,0,1646
+1539170232243,2408,DowloadErrorFile,200,OK,Thread Group 1-29,text,true,,541,4679,57,57,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2408,0,1675
+1539170105236,78321,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-7,,true,,469442,465704,56,56,null,0,51392,0
+1539170105237,6443,Login,200,OK,Thread Group 1-7,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,738,0,48
+1539170112784,20478,NavigateToHomePage,200,OK,Thread Group 1-7,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,771,0,173
+1539170141971,10651,NavigateToUploadPage,200,OK,Thread Group 1-7,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2909,0,644
+1539170186074,9451,SingleMeasureFileUpload,200,OK,Thread Group 1-7,text,true,,15875,108012,89,89,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2418,0,259
+1539170196683,28912,UploadCount,200,OK,Thread Group 1-7,text,true,,14918,102408,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3007,0,1445
+1539170232560,2386,DowloadErrorFile,200,OK,Thread Group 1-7,text,true,,541,4679,56,56,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2386,0,1397
+1539170105295,78217,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-71,,true,,469442,465696,55,55,null,0,51500,0
+1539170105296,6368,Login,200,OK,Thread Group 1-71,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2546,0,414
+1539170112773,20704,NavigateToHomePage,200,OK,Thread Group 1-71,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,826,0,219
+1539170142185,15373,NavigateToUploadPage,200,OK,Thread Group 1-71,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2835,0,637
+1539170191118,14757,SingleMeasureFileUpload,200,OK,Thread Group 1-71,text,true,,15875,108004,81,81,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1942,0,513
+1539170207031,18729,UploadCount,200,OK,Thread Group 1-71,text,true,,14918,102408,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,5313,0,2336
+1539170232724,2286,DowloadErrorFile,200,OK,Thread Group 1-71,text,true,,541,4679,55,55,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2286,0,1269
+1539170105306,78542,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-87,,true,,469442,465696,54,54,null,0,51337,0
+1539170105307,6375,Login,200,OK,Thread Group 1-87,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2919,0,484
+1539170112786,19650,NavigateToHomePage,200,OK,Thread Group 1-87,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,853,0,354
+1539170141145,13338,NavigateToUploadPage,200,OK,Thread Group 1-87,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2302,0,1049
+1539170187878,10807,SingleMeasureFileUpload,200,OK,Thread Group 1-87,text,true,,15875,108004,84,84,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2199,0,1022
+1539170199845,26173,UploadCount,200,OK,Thread Group 1-87,text,true,,14918,102408,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4284,0,2151
+1539170232984,2199,DowloadErrorFile,200,OK,Thread Group 1-87,text,true,,541,4679,54,54,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2199,0,1078
+1539170105254,78512,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-25,,true,,469442,465704,53,53,null,0,51513,0
+1539170105255,6422,Login,200,OK,Thread Group 1-25,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1073,0,168
+1539170112780,20333,NavigateToHomePage,200,OK,Thread Group 1-25,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,819,0,268
+1539170141821,10805,NavigateToUploadPage,200,OK,Thread Group 1-25,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2459,0,748
+1539170186074,9062,SingleMeasureFileUpload,200,OK,Thread Group 1-25,text,true,,15875,108012,89,89,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2418,0,242
+1539170196422,29873,UploadCount,200,OK,Thread Group 1-25,text,true,,14918,102408,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2964,0,947
+1539170233260,2017,DowloadErrorFile,200,OK,Thread Group 1-25,text,true,,541,4679,53,53,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2017,0,834
+1539170105302,78741,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-81,,true,,469442,465704,52,52,null,0,51283,0
+1539170105303,6376,Login,200,OK,Thread Group 1-81,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2843,0,457
+1539170112782,23725,NavigateToHomePage,200,OK,Thread Group 1-81,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,799,0,258
+1539170145216,12874,NavigateToUploadPage,200,OK,Thread Group 1-81,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2498,0,881
+1539170191429,14937,SingleMeasureFileUpload,200,OK,Thread Group 1-81,text,true,,15875,108012,80,80,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2544,0,427
+1539170207532,18766,UploadCount,200,OK,Thread Group 1-81,text,true,,14918,102408,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,5318,0,2249
+1539170233261,2063,DowloadErrorFile,200,OK,Thread Group 1-81,text,true,,541,4679,52,52,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,2063,0,848
+1539170105291,78975,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-67,,true,,469442,465706,51,51,null,0,51437,0
+1539170105291,8016,Login,200,OK,Thread Group 1-67,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2413,0,404
+1539170114410,21743,NavigateToHomePage,200,OK,Thread Group 1-67,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2486,0,1579
+1539170144862,13285,NavigateToUploadPage,200,OK,Thread Group 1-67,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2660,0,912
+1539170191486,16055,SingleMeasureFileUpload,200,OK,Thread Group 1-67,text,true,,15875,108014,80,80,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2217,0,388
+1539170208703,18059,UploadCount,200,OK,Thread Group 1-67,text,true,,14918,102408,68,68,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,5077,0,2211
+1539170233883,1817,DowloadErrorFile,200,OK,Thread Group 1-67,text,true,,541,4679,51,51,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,1817,0,648
+1539170105265,79648,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-31,,true,,469442,465700,50,50,null,0,51276,0
+1539170105265,6402,Login,200,OK,Thread Group 1-31,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1148,0,208
+1539170112772,23811,NavigateToHomePage,200,OK,Thread Group 1-31,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,777,0,151
+1539170145292,13249,NavigateToUploadPage,200,OK,Thread Group 1-31,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2452,0,1006
+1539170191882,17973,SingleMeasureFileUpload,200,OK,Thread Group 1-31,text,true,,15875,108008,79,79,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2385,0,1253
+1539170211010,17570,UploadCount,200,OK,Thread Group 1-31,text,true,,14918,102408,66,66,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4657,0,2450
+1539170235544,643,DowloadErrorFile,200,OK,Thread Group 1-31,text,true,,541,4679,50,50,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,643,0,380
+1539170105293,79607,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-69,,true,,469442,465712,49,49,null,0,51305,0
+1539170105293,6370,Login,200,OK,Thread Group 1-69,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2185,0,391
+1539170112773,20703,NavigateToHomePage,200,OK,Thread Group 1-69,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,826,0,211
+1539170142185,17023,NavigateToUploadPage,200,OK,Thread Group 1-69,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3018,0,650
+1539170192547,18118,SingleMeasureFileUpload,200,OK,Thread Group 1-69,text,true,,15875,108020,78,78,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2257,0,735
+1539170211846,16886,UploadCount,200,OK,Thread Group 1-69,text,true,,14918,102408,66,66,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4503,0,1703
+1539170235697,507,DowloadErrorFile,200,OK,Thread Group 1-69,text,true,,541,4679,49,49,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,507,0,265
+1539170105270,79532,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-40,,true,,469442,465698,48,48,null,0,51485,0
+1539170105271,11666,Login,200,OK,Thread Group 1-40,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1417,0,263
+1539170118039,19598,NavigateToHomePage,200,OK,Thread Group 1-40,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,1971,0,714
+1539170146450,13123,NavigateToUploadPage,200,OK,Thread Group 1-40,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2465,0,810
+1539170192913,18038,SingleMeasureFileUpload,200,OK,Thread Group 1-40,text,true,,15875,108006,78,78,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2086,0,522
+1539170212214,16949,UploadCount,200,OK,Thread Group 1-40,text,true,,14918,102408,65,65,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4399,0,1675
+1539170236127,158,DowloadErrorFile,200,OK,Thread Group 1-40,text,true,,541,4679,48,48,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,158,0,120
+1539170105240,79695,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-12,,true,,469442,465712,47,47,null,0,51461,0
+1539170105242,8066,Login,200,OK,Thread Group 1-12,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,727,0,76
+1539170114411,20838,NavigateToHomePage,200,OK,Thread Group 1-12,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2547,0,1595
+1539170143960,15498,NavigateToUploadPage,200,OK,Thread Group 1-12,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1938,0,495
+1539170192799,17962,SingleMeasureFileUpload,200,OK,Thread Group 1-12,text,true,,15875,108020,78,78,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2063,0,617
+1539170212100,17287,UploadCount,200,OK,Thread Group 1-12,text,true,,14918,102408,64,64,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4513,0,1757
+1539170236351,44,DowloadErrorFile,200,OK,Thread Group 1-12,text,true,,541,4679,47,47,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,44,0,26
+1539170105287,81624,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-61,,true,,469442,465710,46,46,null,0,51302,0
+1539170105288,6383,Login,200,OK,Thread Group 1-61,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1587,0,292
+1539170112775,18098,NavigateToHomePage,200,OK,Thread Group 1-61,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,838,0,330
+1539170139581,14147,NavigateToUploadPage,200,OK,Thread Group 1-61,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1531,0,373
+1539170187067,9854,SingleMeasureFileUpload,200,OK,Thread Group 1-61,text,true,,15875,108018,89,89,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2156,0,671
+1539170198103,33024,UploadCount,200,OK,Thread Group 1-61,text,true,,14918,102408,60,60,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3779,0,1042
+1539170238093,118,DowloadErrorFile,200,OK,Thread Group 1-61,text,true,,541,4679,46,46,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,118,0,96
+1539170105296,81971,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-72,,true,,469442,465706,45,45,null,0,51277,0
+1539170105296,7461,Login,200,OK,Thread Group 1-72,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2474,0,404
+1539170113860,19414,NavigateToHomePage,200,OK,Thread Group 1-72,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2857,0,1892
+1539170141984,15099,NavigateToUploadPage,200,OK,Thread Group 1-72,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2896,0,645
+1539170190423,14828,SingleMeasureFileUpload,200,OK,Thread Group 1-72,text,true,,15875,108014,81,81,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1916,0,966
+1539170206408,25062,UploadCount,200,OK,Thread Group 1-72,text,true,,14918,102408,60,60,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,5224,0,2820
+1539170238436,107,DowloadErrorFile,200,OK,Thread Group 1-72,text,true,,541,4679,45,45,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,107,0,90
+1539170105250,82265,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-19,,true,,469442,465700,44,44,null,0,51376,0
+1539170105250,12548,Login,200,OK,Thread Group 1-19,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,722,0,128
+1539170118900,19583,NavigateToHomePage,200,OK,Thread Group 1-19,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2309,0,825
+1539170147192,13070,NavigateToUploadPage,200,OK,Thread Group 1-19,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2681,0,677
+1539170193704,20201,SingleMeasureFileUpload,200,OK,Thread Group 1-19,text,true,,15875,108008,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2338,0,880
+1539170215060,16766,UploadCount,200,OK,Thread Group 1-19,text,true,,14918,102408,60,60,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4063,0,1618
+1539170238793,97,DowloadErrorFile,200,OK,Thread Group 1-19,text,true,,541,4679,44,44,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,97,0,81
+1539170105316,82286,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-92,,true,,469442,465708,43,43,null,0,51456,0
+1539170105316,11615,Login,200,OK,Thread Group 1-92,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,3058,0,516
+1539170118033,19542,NavigateToHomePage,200,OK,Thread Group 1-92,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,1925,0,700
+1539170146285,13165,NavigateToUploadPage,200,OK,Thread Group 1-92,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2466,0,956
+1539170192790,17971,SingleMeasureFileUpload,200,OK,Thread Group 1-92,text,true,,15875,108016,78,78,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2005,0,611
+1539170212100,19950,UploadCount,200,OK,Thread Group 1-92,text,true,,14918,102408,60,60,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4513,0,1743
+1539170239014,43,DowloadErrorFile,200,OK,Thread Group 1-92,text,true,,541,4679,43,43,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,43,0,27
+1539170105300,82797,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-78,,true,,469442,465706,42,42,null,0,51358,0
+1539170105301,6361,Login,200,OK,Thread Group 1-78,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2704,0,435
+1539170112774,26159,NavigateToHomePage,200,OK,Thread Group 1-78,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,4035,0,227
+1539170147643,13326,NavigateToUploadPage,200,OK,Thread Group 1-78,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2001,0,1231
+1539170194380,20742,SingleMeasureFileUpload,200,OK,Thread Group 1-78,text,true,,15875,108014,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2706,0,824
+1539170216280,16147,UploadCount,200,OK,Thread Group 1-78,text,true,,14918,102408,60,60,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3483,0,1480
+1539170239392,62,DowloadErrorFile,200,OK,Thread Group 1-78,text,true,,541,4679,42,42,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,62,0,19
+1539170105252,83253,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-22,,true,,469442,465702,41,41,null,0,51279,0
+1539170105252,7011,Login,200,OK,Thread Group 1-22,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,812,0,148
+1539170113366,25528,NavigateToHomePage,200,OK,Thread Group 1-22,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,1705,0,246
+1539170147604,13333,NavigateToUploadPage,200,OK,Thread Group 1-22,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2030,0,1229
+1539170194276,20846,SingleMeasureFileUpload,200,OK,Thread Group 1-22,text,true,,15875,108010,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2795,0,874
+1539170216282,16463,UploadCount,200,OK,Thread Group 1-22,text,true,,14918,102408,60,60,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3497,0,1504
+1539170239711,72,DowloadErrorFile,200,OK,Thread Group 1-22,text,true,,541,4679,41,41,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,72,0,51
+1539170105272,83179,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-41,,true,,469442,465704,40,40,null,0,51345,0
+1539170105272,11892,Login,200,OK,Thread Group 1-41,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1323,0,261
+1539170118266,20738,NavigateToHomePage,200,OK,Thread Group 1-41,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,10803,0,624
+1539170147714,13255,NavigateToUploadPage,200,OK,Thread Group 1-41,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1963,0,1229
+1539170194377,20745,SingleMeasureFileUpload,200,OK,Thread Group 1-41,text,true,,15875,108012,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2726,0,796
+1539170216280,16482,UploadCount,200,OK,Thread Group 1-41,text,true,,14918,102408,60,60,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3483,0,1465
+1539170239727,67,DowloadErrorFile,200,OK,Thread Group 1-41,text,true,,541,4679,40,40,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,67,0,50
+1539170105269,83301,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-39,,true,,469442,465712,39,39,null,0,51288,0
+1539170105270,6391,Login,200,OK,Thread Group 1-39,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1211,0,240
+1539170112774,23823,NavigateToHomePage,200,OK,Thread Group 1-39,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,815,0,191
+1539170145306,15575,NavigateToUploadPage,200,OK,Thread Group 1-39,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2440,0,1005
+1539170194220,20617,SingleMeasureFileUpload,200,OK,Thread Group 1-39,text,true,,15875,108020,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2680,0,871
+1539170215996,16856,UploadCount,200,OK,Thread Group 1-39,text,true,,14918,102408,60,60,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3717,0,1381
+1539170239818,39,DowloadErrorFile,200,OK,Thread Group 1-39,text,true,,541,4679,39,39,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,39,0,23
+1539170105279,83716,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-52,,true,,469442,465710,38,38,null,0,51410,0
+1539170105280,13300,Login,200,OK,Thread Group 1-52,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1722,0,319
+1539170119682,18745,NavigateToHomePage,200,OK,Thread Group 1-52,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,3005,0,998
+1539170147137,13095,NavigateToUploadPage,200,OK,Thread Group 1-52,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2582,0,650
+1539170193704,20156,SingleMeasureFileUpload,200,OK,Thread Group 1-52,text,true,,15875,108018,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2338,0,866
+1539170215016,18365,UploadCount,200,OK,Thread Group 1-52,text,true,,14918,102408,59,59,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4108,0,1646
+1539170240348,55,DowloadErrorFile,200,OK,Thread Group 1-52,text,true,,541,4679,38,38,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,55,0,37
+1539170105288,84388,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-63,,true,,469442,465698,37,37,null,0,51290,0
+1539170105288,12509,Login,200,OK,Thread Group 1-63,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1846,0,335
+1539170118900,21653,NavigateToHomePage,200,OK,Thread Group 1-63,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2309,0,843
+1539170149263,12405,NavigateToUploadPage,200,OK,Thread Group 1-63,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2673,0,1001
+1539170195012,21508,SingleMeasureFileUpload,200,OK,Thread Group 1-63,text,true,,15875,108006,74,74,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2921,0,1227
+1539170217686,16214,UploadCount,200,OK,Thread Group 1-63,text,true,,14918,102408,57,57,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3326,0,1518
+1539170240865,99,DowloadErrorFile,200,OK,Thread Group 1-63,text,true,,541,4679,37,37,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,99,0,67
+1539170105251,84452,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-20,,true,,469442,465712,36,36,null,0,51278,0
+1539170105252,12364,Login,200,OK,Thread Group 1-20,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,719,0,133
+1539170118722,19977,NavigateToHomePage,200,OK,Thread Group 1-20,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2290,0,723
+1539170147409,13953,NavigateToUploadPage,200,OK,Thread Group 1-20,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2235,0,1187
+1539170194700,21512,SingleMeasureFileUpload,200,OK,Thread Group 1-20,text,true,,15875,108020,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2763,0,1197
+1539170217369,16532,UploadCount,200,OK,Thread Group 1-20,text,true,,14918,102408,57,57,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3530,0,1772
+1539170240865,114,DowloadErrorFile,200,OK,Thread Group 1-20,text,true,,541,4679,36,36,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,114,0,95
+1539170105292,84789,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-66,,true,,469442,465704,35,35,null,0,51275,0
+1539170105292,6483,Login,200,OK,Thread Group 1-66,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2244,0,397
+1539170112878,20370,NavigateToHomePage,200,OK,Thread Group 1-66,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,834,0,424
+1539170141957,14823,NavigateToUploadPage,200,OK,Thread Group 1-66,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2923,0,644
+1539170190119,12598,SingleMeasureFileUpload,200,OK,Thread Group 1-66,text,true,,15875,108012,82,82,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2267,0,386
+1539170203873,30435,UploadCount,200,OK,Thread Group 1-66,text,true,,14918,102408,57,57,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4855,0,2035
+1539170241274,80,DowloadErrorFile,200,OK,Thread Group 1-66,text,true,,541,4679,35,35,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,80,0,51
+1539170105298,86268,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-76,,true,,469442,465702,34,34,null,0,51453,0
+1539170105298,6315,Login,200,OK,Thread Group 1-76,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2668,0,428
+1539170112719,18814,NavigateToHomePage,200,OK,Thread Group 1-76,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,607,0,52
+1539170140242,17362,NavigateToUploadPage,200,OK,Thread Group 1-76,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1194,0,513
+1539170191114,15042,SingleMeasureFileUpload,200,OK,Thread Group 1-76,text,true,,15875,108010,80,80,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1946,0,502
+1539170207318,28570,UploadCount,200,OK,Thread Group 1-76,text,true,,14918,102408,50,50,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,5280,0,2416
+1539170242852,165,DowloadErrorFile,200,OK,Thread Group 1-76,text,true,,541,4679,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,165,0,72
+1539170105227,86391,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-3,,true,,469442,465696,34,34,null,0,51401,0
+1539170105228,6663,Login,200,OK,Thread Group 1-3,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,741,0,27
+1539170112997,18620,NavigateToHomePage,200,OK,Thread Group 1-3,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,1049,0,337
+1539170140326,17331,NavigateToUploadPage,200,OK,Thread Group 1-3,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4462,0,501
+1539170191118,14757,SingleMeasureFileUpload,200,OK,Thread Group 1-3,text,true,,15875,108004,81,81,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,1942,0,527
+1539170207032,28895,UploadCount,200,OK,Thread Group 1-3,text,true,,14918,102408,50,50,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,17039,0,2349
+1539170242892,125,DowloadErrorFile,200,OK,Thread Group 1-3,text,true,,541,4679,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,125,0,80
+1539170105286,86433,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-60,,true,,469442,465708,32,32,null,0,51301,0
+1539170105286,12899,Login,200,OK,Thread Group 1-60,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1914,0,350
+1539170119286,19546,NavigateToHomePage,200,OK,Thread Group 1-60,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2620,0,1026
+1539170147542,17338,NavigateToUploadPage,200,OK,Thread Group 1-60,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2092,0,1261
+1539170198234,21822,SingleMeasureFileUpload,200,OK,Thread Group 1-60,text,true,,15875,108016,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3708,0,1407
+1539170221225,14720,UploadCount,200,OK,Thread Group 1-60,text,true,,14918,102408,50,50,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2940,0,1050
+1539170242910,108,DowloadErrorFile,200,OK,Thread Group 1-60,text,true,,541,4679,32,32,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,108,0,79
+1539170105245,86501,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-15,,true,,469442,465704,31,31,null,0,51279,0
+1539170105246,7514,Login,200,OK,Thread Group 1-15,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,884,0,101
+1539170113863,24470,NavigateToHomePage,200,OK,Thread Group 1-15,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2858,0,1880
+1539170147044,16282,NavigateToUploadPage,200,OK,Thread Group 1-15,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2593,0,537
+1539170196667,22379,SingleMeasureFileUpload,200,OK,Thread Group 1-15,text,true,,15875,108012,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3009,0,1444
+1539170220202,15777,UploadCount,200,OK,Thread Group 1-15,text,true,,14918,102408,50,50,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2692,0,1042
+1539170242944,79,DowloadErrorFile,200,OK,Thread Group 1-15,text,true,,541,4679,31,31,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,79,0,62
+1539170105278,86463,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-47,,true,,469442,465694,30,30,null,0,51296,0
+1539170105278,12356,Login,200,OK,Thread Group 1-47,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1546,0,290
+1539170118754,19599,NavigateToHomePage,200,OK,Thread Group 1-47,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2279,0,745
+1539170147063,15093,NavigateToUploadPage,200,OK,Thread Group 1-47,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4928,0,545
+1539170195496,21389,SingleMeasureFileUpload,200,OK,Thread Group 1-47,text,true,,15875,108002,74,74,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3098,0,1110
+1539170218043,17938,UploadCount,200,OK,Thread Group 1-47,text,true,,14918,102408,50,50,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3300,0,1362
+1539170242947,88,DowloadErrorFile,200,OK,Thread Group 1-47,text,true,,541,4679,30,30,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,88,0,68
+1539170105294,86538,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-70,,true,,469442,465698,29,29,null,0,51282,0
+1539170105295,8013,Login,200,OK,Thread Group 1-70,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2158,0,384
+1539170114411,19657,NavigateToHomePage,200,OK,Thread Group 1-70,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2486,0,1586
+1539170142777,19070,NavigateToUploadPage,200,OK,Thread Group 1-70,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,8177,0,1189
+1539170195185,21699,SingleMeasureFileUpload,200,OK,Thread Group 1-70,text,true,,15875,108006,74,74,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3233,0,1400
+1539170218046,18022,UploadCount,200,OK,Thread Group 1-70,text,true,,14918,102408,50,50,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3337,0,1376
+1539170243034,77,DowloadErrorFile,200,OK,Thread Group 1-70,text,true,,541,4679,29,29,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,77,0,37
+1539170105281,86559,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-51,,true,,469442,465706,28,28,null,0,51275,0
+1539170105282,12516,Login,200,OK,Thread Group 1-51,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1690,0,311
+1539170118900,21082,NavigateToHomePage,200,OK,Thread Group 1-51,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2350,0,834
+1539170148691,18289,NavigateToUploadPage,200,OK,Thread Group 1-51,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2044,0,441
+1539170200320,21048,SingleMeasureFileUpload,200,OK,Thread Group 1-51,text,true,,15875,108014,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4437,0,2091
+1539170222524,13542,UploadCount,200,OK,Thread Group 1-51,text,true,,14918,102408,50,50,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3534,0,1293
+1539170243031,82,DowloadErrorFile,200,OK,Thread Group 1-51,text,true,,541,4679,28,28,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,82,0,53
+1539170105276,86567,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-48,,true,,469442,465714,27,27,null,0,51275,0
+1539170105277,12375,Login,200,OK,Thread Group 1-48,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1514,0,285
+1539170118754,19948,NavigateToHomePage,200,OK,Thread Group 1-48,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2276,0,736
+1539170147413,17660,NavigateToUploadPage,200,OK,Thread Group 1-48,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,9659,0,1196
+1539170198413,22135,SingleMeasureFileUpload,200,OK,Thread Group 1-48,text,true,,15875,108022,70,70,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4070,0,1414
+1539170221703,14395,UploadCount,200,OK,Thread Group 1-48,text,true,,14918,102408,50,50,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3183,0,1535
+1539170243062,54,DowloadErrorFile,200,OK,Thread Group 1-48,text,true,,541,4679,27,27,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,54,0,35
+1539170105316,86542,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-93,,true,,469442,465708,26,26,null,0,51274,0
+1539170105316,6369,Login,200,OK,Thread Group 1-93,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,3051,0,509
+1539170112789,28097,NavigateToHomePage,200,OK,Thread Group 1-93,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,851,0,370
+1539170149594,15456,NavigateToUploadPage,200,OK,Thread Group 1-93,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2345,0,723
+1539170198390,22139,SingleMeasureFileUpload,200,OK,Thread Group 1-93,text,true,,15875,108016,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3973,0,1422
+1539170221684,14429,UploadCount,200,OK,Thread Group 1-93,text,true,,14918,102408,50,50,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3115,0,1539
+1539170243077,52,DowloadErrorFile,200,OK,Thread Group 1-93,text,true,,541,4679,26,26,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,52,0,31
+1539170105275,87350,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-45,,true,,469442,465712,25,25,null,0,51273,0
+1539170105275,11919,Login,200,OK,Thread Group 1-45,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1455,0,271
+1539170118296,21427,NavigateToHomePage,200,OK,Thread Group 1-45,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2005,0,673
+1539170148434,12913,NavigateToUploadPage,200,OK,Thread Group 1-45,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2519,0,579
+1539170194685,21470,SingleMeasureFileUpload,200,OK,Thread Group 1-45,text,true,,15875,108020,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2773,0,1193
+1539170217310,19534,UploadCount,200,OK,Thread Group 1-45,text,true,,14918,102408,46,46,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3230,0,1769
+1539170243809,87,DowloadErrorFile,200,OK,Thread Group 1-45,text,true,,541,4679,25,25,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,87,0,65
+1539170105283,87779,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-56,,true,,469442,465708,24,24,null,0,51480,0
+1539170105283,13285,Login,200,OK,Thread Group 1-56,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1989,0,365
+1539170119670,18739,NavigateToHomePage,200,OK,Thread Group 1-56,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,3018,0,1000
+1539170147119,13040,NavigateToUploadPage,200,OK,Thread Group 1-56,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2518,0,559
+1539170193704,20156,SingleMeasureFileUpload,200,OK,Thread Group 1-56,text,true,,15875,108016,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2337,0,922
+1539170215016,22479,UploadCount,200,OK,Thread Group 1-56,text,true,,14918,102408,46,46,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4035,0,1631
+1539170244460,80,DowloadErrorFile,200,OK,Thread Group 1-56,text,true,,541,4679,24,24,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,80,0,60
+1539170105262,88934,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-30,,true,,469442,465698,23,23,null,0,51285,0
+1539170105262,11748,Login,200,OK,Thread Group 1-30,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1363,0,197
+1539170118112,20889,NavigateToHomePage,200,OK,Thread Group 1-30,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,1978,0,719
+1539170147711,13321,NavigateToUploadPage,200,OK,Thread Group 1-30,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2162,0,1219
+1539170194381,20898,SingleMeasureFileUpload,200,OK,Thread Group 1-30,text,true,,15875,108006,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2710,0,839
+1539170216435,22006,UploadCount,200,OK,Thread Group 1-30,text,true,,14918,102408,45,45,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3420,0,1390
+1539170245407,72,DowloadErrorFile,200,OK,Thread Group 1-30,text,true,,541,4679,23,23,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,72,0,54
+1539170105245,89029,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-16,,true,,469442,465702,22,22,null,0,51277,0
+1539170105246,13278,Login,200,OK,Thread Group 1-16,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,732,0,109
+1539170119628,18728,NavigateToHomePage,200,OK,Thread Group 1-16,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,3018,0,1011
+1539170147066,17152,NavigateToUploadPage,200,OK,Thread Group 1-16,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,6508,0,555
+1539170197559,21997,SingleMeasureFileUpload,200,OK,Thread Group 1-16,text,true,,15875,108010,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3450,0,1428
+1539170220711,17832,UploadCount,200,OK,Thread Group 1-16,text,true,,14918,102408,44,44,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3036,0,652
+1539170245507,42,DowloadErrorFile,200,OK,Thread Group 1-16,text,true,,541,4679,22,22,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,42,0,23
+1539170105274,89549,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-44,,true,,469442,465704,21,21,null,0,51281,0
+1539170105275,11890,Login,200,OK,Thread Group 1-44,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1461,0,277
+1539170118267,21677,NavigateToHomePage,200,OK,Thread Group 1-44,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2024,0,641
+1539170148661,12716,NavigateToUploadPage,200,OK,Thread Group 1-44,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2429,0,430
+1539170194715,21360,SingleMeasureFileUpload,200,OK,Thread Group 1-44,text,true,,15875,108012,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2762,0,1199
+1539170217231,21810,UploadCount,200,OK,Thread Group 1-44,text,true,,14918,102408,43,43,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3294,0,1832
+1539170246007,96,DowloadErrorFile,200,OK,Thread Group 1-44,text,true,,541,4679,21,21,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,96,0,70
+1539170105243,89960,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-13,,true,,469442,465712,20,20,null,0,51303,0
+1539170105244,12417,Login,200,OK,Thread Group 1-13,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,761,0,89
+1539170118783,19570,NavigateToHomePage,200,OK,Thread Group 1-13,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2271,0,738
+1539170147062,19375,NavigateToUploadPage,200,OK,Thread Group 1-13,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2575,0,532
+1539170199784,21566,SingleMeasureFileUpload,200,OK,Thread Group 1-13,text,true,,15875,108020,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4317,0,1910
+1539170222507,16945,UploadCount,200,OK,Thread Group 1-13,text,true,,14918,102408,42,42,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3242,0,1275
+1539170246418,87,DowloadErrorFile,200,OK,Thread Group 1-13,text,true,,541,4679,20,20,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,87,0,65
+1539170105267,89974,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-35,,true,,469442,465702,19,19,null,0,51275,0
+1539170105267,6407,Login,200,OK,Thread Group 1-35,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1274,0,232
+1539170112777,28070,NavigateToHomePage,200,OK,Thread Group 1-35,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,4323,0,232
+1539170149557,16281,NavigateToUploadPage,200,OK,Thread Group 1-35,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2382,0,736
+1539170199179,22031,SingleMeasureFileUpload,200,OK,Thread Group 1-35,text,true,,15875,108010,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4144,0,2216
+1539170222364,17143,UploadCount,200,OK,Thread Group 1-35,text,true,,14918,102408,41,41,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3261,0,1219
+1539170246473,42,DowloadErrorFile,200,OK,Thread Group 1-35,text,true,,541,4679,19,19,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,42,0,25
+1539170105301,90002,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-79,,true,,469442,465698,18,18,null,0,51279,0
+1539170105301,6269,Login,200,OK,Thread Group 1-79,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2708,0,441
+1539170112676,26153,NavigateToHomePage,200,OK,Thread Group 1-79,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,502,0,60
+1539170147538,16469,NavigateToUploadPage,200,OK,Thread Group 1-79,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,11504,0,1212
+1539170197349,22130,SingleMeasureFileUpload,200,OK,Thread Group 1-79,text,true,,15875,108006,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3544,0,1536
+1539170220635,18942,UploadCount,200,OK,Thread Group 1-79,text,true,,14918,102408,41,41,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,7200,0,709
+1539170246542,39,DowloadErrorFile,200,OK,Thread Group 1-79,text,true,,541,4679,18,18,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,39,0,19
+1539170105234,90326,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-6,,true,,469442,465694,17,17,null,0,51278,0
+1539170105235,12509,Login,200,OK,Thread Group 1-6,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,802,0,43
+1539170118846,19522,NavigateToHomePage,200,OK,Thread Group 1-6,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2284,0,744
+1539170147078,18996,NavigateToUploadPage,200,OK,Thread Group 1-6,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2559,0,572
+1539170199415,21936,SingleMeasureFileUpload,200,OK,Thread Group 1-6,text,true,,15875,108002,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4329,0,2052
+1539170222509,17307,UploadCount,200,OK,Thread Group 1-6,text,true,,14918,102408,39,39,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3225,0,1257
+1539170246781,56,DowloadErrorFile,200,OK,Thread Group 1-6,text,true,,541,4679,17,17,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,56,0,35
+1539170105289,90211,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-64,,true,,469442,465694,16,16,null,0,51347,0
+1539170105290,12726,Login,200,OK,Thread Group 1-64,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1759,0,315
+1539170119117,28154,NavigateToHomePage,200,OK,Thread Group 1-64,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2470,0,960
+1539170156031,8704,NavigateToUploadPage,200,OK,Thread Group 1-64,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3457,0,1527
+1539170198097,23073,SingleMeasureFileUpload,200,OK,Thread Group 1-64,text,true,,15875,108002,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3784,0,1008
+1539170222326,17489,UploadCount,200,OK,Thread Group 1-64,text,true,,14918,102408,39,39,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3232,0,1211
+1539170246781,65,DowloadErrorFile,200,OK,Thread Group 1-64,text,true,,541,4679,16,16,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,65,0,49
+1539170105320,90296,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-95,,true,,469442,465698,15,15,null,0,51296,0
+1539170105321,12463,Login,200,OK,Thread Group 1-95,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,3237,0,556
+1539170118886,21045,NavigateToHomePage,200,OK,Thread Group 1-95,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2323,0,804
+1539170148661,18242,NavigateToUploadPage,200,OK,Thread Group 1-95,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2620,0,442
+1539170200243,21124,SingleMeasureFileUpload,200,OK,Thread Group 1-95,text,true,,15875,108006,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4505,0,2150
+1539170222521,17387,UploadCount,200,OK,Thread Group 1-95,text,true,,14918,102408,38,38,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3228,0,1278
+1539170246875,35,DowloadErrorFile,200,OK,Thread Group 1-95,text,true,,541,4679,15,15,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,35,0,19
+1539170105273,91420,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-43,,true,,469442,465696,14,14,null,0,51375,0
+1539170105273,11531,Login,200,OK,Thread Group 1-43,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1322,0,268
+1539170117990,22936,NavigateToHomePage,200,OK,Thread Group 1-43,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,1908,0,704
+1539170149635,16052,NavigateToUploadPage,200,OK,Thread Group 1-43,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2305,0,696
+1539170199043,22022,SingleMeasureFileUpload,200,OK,Thread Group 1-43,text,true,,15875,108004,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4010,0,2113
+1539170222220,18751,UploadCount,200,OK,Thread Group 1-43,text,true,,14918,102408,36,36,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3295,0,1229
+1539170247938,128,DowloadErrorFile,200,OK,Thread Group 1-43,text,true,,541,4679,14,14,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,128,0,69
+1539170105288,91505,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-62,,true,,469442,465714,13,13,null,0,51278,0
+1539170105288,11678,Login,200,OK,Thread Group 1-62,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1632,0,299
+1539170118068,20288,NavigateToHomePage,200,OK,Thread Group 1-62,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,1997,0,738
+1539170147066,16855,NavigateToUploadPage,200,OK,Thread Group 1-62,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2578,0,568
+1539170197262,22167,SingleMeasureFileUpload,200,OK,Thread Group 1-62,text,true,,15875,108022,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3385,0,1438
+1539170220587,20393,UploadCount,200,OK,Thread Group 1-62,text,true,,14918,102408,36,36,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3160,0,755
+1539170247946,124,DowloadErrorFile,200,OK,Thread Group 1-62,text,true,,541,4679,13,13,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,124,0,98
+1539170105248,91594,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-18,,true,,469442,465714,12,12,null,0,51276,0
+1539170105248,6428,Login,200,OK,Thread Group 1-18,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,913,0,115
+1539170112779,23880,NavigateToHomePage,200,OK,Thread Group 1-18,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,796,0,246
+1539170145368,15490,NavigateToUploadPage,200,OK,Thread Group 1-18,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2377,0,996
+1539170194198,20261,SingleMeasureFileUpload,200,OK,Thread Group 1-18,text,true,,15875,108022,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2528,0,722
+1539170215615,25495,UploadCount,200,OK,Thread Group 1-18,text,true,,14918,102408,35,35,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3893,0,1339
+1539170248076,40,DowloadErrorFile,200,OK,Thread Group 1-18,text,true,,541,4679,12,12,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,40,0,18
+1539170105279,91517,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-50,,true,,469442,465694,11,11,null,0,51329,0
+1539170105280,7135,Login,200,OK,Thread Group 1-50,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1951,0,362
+1539170113518,20029,NavigateToHomePage,200,OK,Thread Group 1-50,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,3292,0,140
+1539170142257,22497,NavigateToUploadPage,200,OK,Thread Group 1-50,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2531,0,704
+1539170198146,21636,SingleMeasureFileUpload,200,OK,Thread Group 1-50,text,true,,15875,108002,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3751,0,1058
+1539170220938,20187,UploadCount,200,OK,Thread Group 1-50,text,true,,14918,102408,35,35,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2809,0,649
+1539170248091,33,DowloadErrorFile,200,OK,Thread Group 1-50,text,true,,541,4679,11,11,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,33,0,18
+1539170105285,91830,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-55,,true,,469442,465714,10,10,null,0,51373,0
+1539170105285,12340,Login,200,OK,Thread Group 1-55,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1785,0,326
+1539170118754,20140,NavigateToHomePage,200,OK,Thread Group 1-55,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2276,0,727
+1539170147604,13365,NavigateToUploadPage,200,OK,Thread Group 1-55,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2033,0,1242
+1539170194378,20744,SingleMeasureFileUpload,200,OK,Thread Group 1-55,text,true,,15875,108022,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2725,0,811
+1539170216279,25153,UploadCount,200,OK,Thread Group 1-55,text,true,,14918,102408,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,13499,0,1450
+1539170248399,88,DowloadErrorFile,200,OK,Thread Group 1-55,text,true,,541,4679,10,10,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,88,0,65
+1539170105240,91859,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-10,,true,,469442,465708,9,9,null,0,51428,0
+1539170105241,12543,Login,200,OK,Thread Group 1-10,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,730,0,84
+1539170118894,19874,NavigateToHomePage,200,OK,Thread Group 1-10,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2315,0,823
+1539170147478,16975,NavigateToUploadPage,200,OK,Thread Group 1-10,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2139,0,1183
+1539170197936,21809,SingleMeasureFileUpload,200,OK,Thread Group 1-10,text,true,,15875,108016,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3964,0,1122
+1539170220901,20622,UploadCount,200,OK,Thread Group 1-10,text,true,,14918,102408,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2846,0,482
+1539170248490,36,DowloadErrorFile,200,OK,Thread Group 1-10,text,true,,541,4679,9,9,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,36,0,18
+1539170105278,91999,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-49,,true,,469442,465714,8,8,null,0,51275,0
+1539170105279,12521,Login,200,OK,Thread Group 1-49,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1569,0,295
+1539170118902,21055,NavigateToHomePage,200,OK,Thread Group 1-49,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2307,0,849
+1539170148667,18397,NavigateToUploadPage,200,OK,Thread Group 1-49,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2054,0,450
+1539170200404,21266,SingleMeasureFileUpload,200,OK,Thread Group 1-49,text,true,,15875,108022,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4577,0,2093
+1539170222824,18728,UploadCount,200,OK,Thread Group 1-49,text,true,,14918,102408,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3366,0,1013
+1539170248518,32,DowloadErrorFile,200,OK,Thread Group 1-49,text,true,,541,4679,8,8,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,32,0,17
+1539170105286,92185,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-59,,true,,469442,465696,7,7,null,0,51278,0
+1539170105287,12545,Login,200,OK,Thread Group 1-59,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1818,0,330
+1539170118934,23641,NavigateToHomePage,200,OK,Thread Group 1-59,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2375,0,857
+1539170151286,14235,NavigateToUploadPage,200,OK,Thread Group 1-59,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3355,0,1335
+1539170198863,22069,SingleMeasureFileUpload,200,OK,Thread Group 1-59,text,true,,15875,108004,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4130,0,1299
+1539170222087,19583,UploadCount,200,OK,Thread Group 1-59,text,true,,14918,102408,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3132,0,1235
+1539170248636,112,DowloadErrorFile,200,OK,Thread Group 1-59,text,true,,541,4679,7,7,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,112,0,68
+1539170105264,92175,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-33,,true,,469442,465700,6,6,null,0,51326,0
+1539170105265,6424,Login,200,OK,Thread Group 1-33,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1393,0,215
+1539170112792,26040,NavigateToHomePage,200,OK,Thread Group 1-33,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,849,0,400
+1539170147541,16835,NavigateToUploadPage,200,OK,Thread Group 1-33,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,10859,0,1249
+1539170197765,21981,SingleMeasureFileUpload,200,OK,Thread Group 1-33,text,true,,15875,108008,71,71,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3905,0,1275
+1539170220902,20785,UploadCount,200,OK,Thread Group 1-33,text,true,,14918,102408,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2845,0,496
+1539170248653,110,DowloadErrorFile,200,OK,Thread Group 1-33,text,true,,541,4679,6,6,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,110,0,92
+1539170105326,92124,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-97,,true,,469442,465698,5,5,null,0,51406,0
+1539170105326,6349,Login,200,OK,Thread Group 1-97,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,3183,0,535
+1539170112779,23818,NavigateToHomePage,200,OK,Thread Group 1-97,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,810,0,283
+1539170145306,14929,NavigateToUploadPage,200,OK,Thread Group 1-97,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2440,0,1019
+1539170193704,20123,SingleMeasureFileUpload,200,OK,Thread Group 1-97,text,true,,15875,108006,75,75,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2336,0,894
+1539170214984,26867,UploadCount,200,OK,Thread Group 1-97,text,true,,14918,102408,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,4079,0,1646
+1539170248817,38,DowloadErrorFile,200,OK,Thread Group 1-97,text,true,,541,4679,5,5,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,38,0,21
+1539170105284,92287,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-58,,true,,469442,465702,4,4,null,0,51446,0
+1539170105284,12514,Login,200,OK,Thread Group 1-58,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1886,0,346
+1539170118900,24590,NavigateToHomePage,200,OK,Thread Group 1-58,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2319,0,860
+1539170152373,15639,NavigateToUploadPage,200,OK,Thread Group 1-58,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3179,0,1355
+1539170201352,20720,SingleMeasureFileUpload,200,OK,Thread Group 1-58,text,true,,15875,108010,69,69,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,4205,0,1380
+1539170223226,18774,UploadCount,200,OK,Thread Group 1-58,text,true,,14918,102408,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3014,0,1073
+1539170248966,50,DowloadErrorFile,200,OK,Thread Group 1-58,text,true,,541,4679,4,4,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,50,0,31
+1539170105264,92814,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-32,,true,,469442,465714,3,3,null,0,51302,0
+1539170105264,12480,Login,200,OK,Thread Group 1-32,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,1303,0,202
+1539170118846,20877,NavigateToHomePage,200,OK,Thread Group 1-32,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,2289,0,754
+1539170148433,14044,NavigateToUploadPage,200,OK,Thread Group 1-32,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,10141,0,566
+1539170195842,21802,SingleMeasureFileUpload,200,OK,Thread Group 1-32,text,true,,15875,108022,74,74,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3005,0,1021
+1539170218801,23534,UploadCount,200,OK,Thread Group 1-32,text,true,,14918,102408,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3007,0,961
+1539170249302,77,DowloadErrorFile,200,OK,Thread Group 1-32,text,true,,541,4679,3,3,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,77,0,57
+1539170105309,93233,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-90,,true,,469442,465708,2,2,null,0,51470,0
+1539170105313,6342,Login,200,OK,Thread Group 1-90,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,2967,0,498
+1539170112759,21986,NavigateToHomePage,200,OK,Thread Group 1-90,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,877,0,72
+1539170143454,18861,NavigateToUploadPage,200,OK,Thread Group 1-90,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2057,0,842
+1539170195843,21717,SingleMeasureFileUpload,200,OK,Thread Group 1-90,text,true,,15875,108016,74,74,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3005,0,1035
+1539170218718,24256,UploadCount,200,OK,Thread Group 1-90,text,true,,14918,102408,34,34,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,3090,0,1028
+1539170249940,71,DowloadErrorFile,200,OK,Thread Group 1-90,text,true,,541,4679,2,2,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,71,0,53
+1539170105331,93401,ExternalSiteTest,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-99,,true,,469442,465704,1,1,null,0,51295,0
+1539170105331,6346,Login,200,OK,Thread Group 1-99,text,true,,58272,24118,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Error.html?aspxerrorpath=/Logon/,3262,0,570
+1539170112781,28297,NavigateToHomePage,200,OK,Thread Group 1-99,text,true,,364078,124294,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/,823,0,252
+1539170149786,12399,NavigateToUploadPage,200,OK,Thread Group 1-99,text,true,,15758,102193,100,100,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,2586,0,651
+1539170195542,22016,SingleMeasureFileUpload,200,OK,Thread Group 1-99,text,true,,15875,108012,74,74,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload,3140,0,1202
+1539170218717,24301,UploadCount,200,OK,Thread Group 1-99,text,true,,14918,102408,32,32,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/UploadComplete?ECO3FileMappingID=15785&ErrorCount=2&SuccessCount=0&CompleteCount=2,2894,0,1014
+1539170249984,42,DowloadErrorFile,200,OK,Thread Group 1-99,text,true,,541,4679,1,1,http://ext-web-qaa-eco.dev.corp.ofgem.gov.uk/Upload/DownloadError?ECO1ID=0&ECO3ID=15785&ECO2ID=0,42,0,25
